@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+datasets/
+
+# Model weights / checkpoints
+weights/
+checkpoints/
+
+# Cache and logs
+cache/
+logs/
+
+# Results generated during experiments
+results/
+
+# Large model files
+*.pt
+*.pth
+*.keras
+*.h5
+
+# Temporary files
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
